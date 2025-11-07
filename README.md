@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I'm Iqra Tariq  
 🎓 Final Year Computer Science Student | 💻 MERN Stack Developer | 🌍 Freelancer  
 
@@ -11,7 +12,7 @@
 
 ## 📈 GitHub Stats  
 ![Iqra’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqratariqq&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqratariqq&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=iqratariqq&theme=radical) 
 
 ---
 
@@ -29,4 +30,5 @@
 
 
 ## 💻 Explore My Projects 🚀
+</div>
 
