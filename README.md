@@ -3,11 +3,8 @@
 # 👋 Hi, I'm Iqra Tariq  
 🎓 Final Year Computer Science Student | 💻 MERN Stack Developer | 🌍 Freelancer  
 
-💡 **I Enjoy:**
-- 🧩 Building full-stack web applications  
-- 🗄️ Working with **MongoDB, Express, React, and Node.js**  
-- 🚀 Exploring new technologies  
-- 🧠 Improving my problem-solving skills  
+💡 I enjoy building full-stack web applications using **MongoDB, Express, React, and Node.js**.  
+🚀 Always exploring new technologies and improving my problem-solving skills.  
 
 
 ✨ **Hobbies / Likes:**
@@ -26,7 +23,7 @@
 </p>
 
 <p align="center">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=iqratariqq&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=iqratariq&theme=radical)  
 
 </p>
 
